@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Back-end**
 
-- 👨‍💻 All of my projects are available at [https://yusufakcay.vercel.app/](https://yusufakcay.vercel.app/)
+- 👨‍💻 All of my projects are available at [yusufakcay.dev](https://yusufakcay.dev/)
 
 - 💬 Ask me about **React & Next.js**
 
