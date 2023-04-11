@@ -21,9 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,tailwind,firebase,mongodb" alt="Typescript, Javascript, React.js, Node.js, Tailwind CSS, irebase, MongoDB" />
-    <img src="https://skillicons.dev/icons?i=html,css,git,redux,vite,webpack" alt="HTML, CSS, Git, Redux, Vite, Webpack" />
-    
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,firebase,mongodb" alt="Typescript, Javascript, React.js, Tailwind CSS, irebase, MongoDB" /> <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,git,redux,vite,webpack,nodejs" alt="HTML, CSS, Git, Redux, Vite, Webpack, Node.js" />
  </a>
 </p>
 
