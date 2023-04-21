@@ -22,7 +22,7 @@
 <p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,firebase,mongodb,prisma,apollo" alt="Typescript, Javascript, React.js, Tailwind CSS, Firebase, MongoDB, Prisma, Apollo" /> <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,git,redux,vite,webpack,nodejs,graphql" alt="HTML, CSS, Git, Redux, Vite, Webpack, Node.js,GraphQL" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,redux,vite,webpack,nodejs,graphql,python" alt="HTML, CSS, Git, Redux, Vite, Webpack, Node.js,GraphQL,Python" />
  </a>
 </p>
 
