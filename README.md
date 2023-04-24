@@ -21,8 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,firebase,mongodb,prisma,apollo" alt="Typescript, Javascript, React.js, Tailwind CSS, Firebase, MongoDB, Prisma, Apollo" /> <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,git,redux,vite,webpack,nodejs,graphql,python" alt="HTML, CSS, Git, Redux, Vite, Webpack, Node.js,GraphQL,Python" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,firebase,mongodb,prisma,apollo,webpack" alt="Typescript, Javascript, React.js, Tailwind CSS, Firebase, MongoDB, Prisma, Apollo, Webpack," />  <img src="https://trpc.io/img/logo.svg" height="50" /> <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,git,redux,vite,webpack,nodejs,graphql,python,express" alt="HTML, CSS, Git, Redux, Vite, Webpack, Node.js,GraphQL,Python,Express" />
  </a>
 </p>
 
