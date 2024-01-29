@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ultimate Pomodoro](https://github.com/LetoSipra/ultimate-pomodoro) & Side Projects
 
-- 🌱 I’m currently learning **=**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [yusufakcay.dev](https://yusufakcay.dev/)
 
