@@ -2,7 +2,6 @@
 <h3>A full-stack developer from Turkey</h3>
 
 
-
 - 🔭 I’m currently working on [Ultimate Pomodoro](https://github.com/LetoSipra/ultimate-pomodoro) & Side Projects
 
 - 🌱 I’m currently learning
