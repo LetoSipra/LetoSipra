@@ -2,15 +2,7 @@
 <h3>A full-stack developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on
-
-- 🌱 I’m currently learning
-
-- 👨‍💻 All of my projects are available at [yusufakcay.dev](https://yusufakcay.dev/)
-
-- 💬 Ask me about **React.js & Next.js**
-
-- 📫 How to reach me **business@yusufakcay.dev**
+Rebuilding...
 
 <h3 align="left">Fell free to chat:</h3>
 <p align="left">
