@@ -2,8 +2,6 @@
 <h3>A full-stack developer from Turkey</h3>
 
 
-Rebuilding...
-
 <h3 align="left">Fell free to chat:</h3>
 <p align="left">
 <a href="https://twitter.com/yusufakcay22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusufakcay22" height="30" width="40" /></a>
