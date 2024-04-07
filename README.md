@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Yusuf</h1>
 <h3>A full-stack developer from Turkey</h3>
 
+Soon, I'll be updating my page.
 
 <h3 align="left">Fell free to chat:</h3>
 <p align="left">
