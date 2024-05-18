@@ -13,7 +13,7 @@ Soon, I`ll be updating my page.
 <p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=ts,js,python,c,nextjs,react,tailwind,firebase,mongodb,prisma,aws" alt="Typescript, Javascript, React.js, Tailwind CSS, Firebase, MongoDB, Prisma, Apollo, Webpack" />  
-    <img src="https://trpc.io/img/logo.svg" height="50" /> <br/>
+ <br/>
     <img src="https://skillicons.dev/icons?i=html,css,git,redux,vite,webpack,nodejs,graphql,express,apollo" alt="HTML, CSS, Git, Redux, Vite, Webpack, Node.js,GraphQL,Python,Express,aws" />
  </a>
 </p>
